@@ -1,0 +1,51 @@
+.navBar{
+    background-color: white;
+    border-style: solid;
+    border-color: red green grey yellow;
+    border-width: 2px 0px 1px 0px;
+    height:50px;
+}
+.navBar ul{
+margin: 12px 80px 12px 410px;
+}
+.navBar li{
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    letter-spacing: 5px;
+    padding-right: 50px;
+    color:white;
+    padding-left: 0px;
+}
+.navBar li a{
+text-decoration:none;
+}
+a:hover {
+    color: grey;
+}
+
+.contIm img{
+margin:150px 400px 0px 400px;
+}
+
+p{
+font-family: 'Nunito', sans-serif;
+font-size:30px;
+margin-left:450px; 
+font-weight: bold;
+}
+.links li{
+list-style-type: none;
+display: inline-block;
+margin-left:125px;
+}
+.links li img{
+height:90px;
+width:90px;
+}
+.links li img:hover {
+    height:80px;
+    width:80px;
+}

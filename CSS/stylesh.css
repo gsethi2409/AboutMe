@@ -1,0 +1,59 @@
+.mine{
+ float:right;
+padding-top:10px;
+}
+.intro li:after{
+content: '|';
+padding: 0px 20px;
+}
+.intro li
+{
+    list-style-type: none;
+    display: inline-block;
+    }
+.intro
+{
+    color:grey;
+    font-size:40px;
+    font-family: 'Oswald', sans-serif;
+}
+.name{
+    float:left;
+    padding-top:10px;
+    width:650px;
+}
+.line{
+  
+}
+a{
+text-decoration:none;
+}
+.navBar{
+    background-color: white;
+    border-style: solid;
+    border-color: red green grey yellow;
+    border-width: 2px 0px 1px 0px;
+    height:50px;
+}
+.intro2{
+font-family: 'Amatic SC', cursive;
+font-size: 50px;
+
+}
+.navBar ul{
+margin: 12px 80px 12px 410px;
+}
+.navBar li{
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    letter-spacing: 5px;
+    padding-right: 50px;
+    color:white;
+    padding-left: 0px;
+}
+a:hover {
+    color: grey;
+}

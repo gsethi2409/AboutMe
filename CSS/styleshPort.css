@@ -1,0 +1,56 @@
+.navBar{
+    background-color: white;
+    border-style: solid;
+    border-color: red green grey yellow;
+    border-width: 2px 0px 1px 0px;
+    height:50px;
+    margin-bottom:10px;
+}
+.navBar ul{
+margin: 12px 80px 12px 410px;
+}
+.navBar li{
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    color: black;
+    letter-spacing: 5px;
+    padding-right: 50px;
+    color:white;
+    padding-left: 0px;
+}
+.navBar li a{
+text-decoration:none;
+}
+a:hover {
+    color: grey;
+}
+
+.P{
+    background-repeat: no-repeat;
+    background-image: url("../Images/port.jpg");
+    font-family: 'Oswald', sans-serif;
+    font-size:100px;
+    color:black;
+    --font-weight:bold;
+    letter-spacing: 15px;
+    padding-top:830px; 
+    padding-left: 780px;
+}
+h4{
+--float:left;
+font-family: 'Oswald', sans-serif;
+font-size:50px;
+margin:0px 50px;
+border-style: solid;
+border-color: red green grey yellow;
+border-width: 0px 0px 3px 0px;
+
+}
+
+.desc{
+font-family: 'Oswald', sans-serif;
+font-size:30px;
+margin:0px 70px 90px 70px;
+}

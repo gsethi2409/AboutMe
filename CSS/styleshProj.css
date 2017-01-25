@@ -1,0 +1,78 @@
+.navBar{
+    background-color: white;
+    border-style: solid;
+    border-color: red green grey yellow;
+    border-width: 3px 0px 1px 0px;
+    height:50px;
+    margin-bottom:10px;
+}
+.navBar ul{
+margin: 12px 80px 12px 410px;
+}
+.navBar li a{
+text-decoration:none;
+}
+.navBar li{
+    list-style-type: none;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+    font-size: 17px;
+    color: black;
+    letter-spacing: 5px;
+    padding-right: 50px;
+    color:white;
+    padding-left: 0px;
+}
+a:hover {
+    color: grey;
+}
+
+.GB
+{
+    background-repeat: no-repeat;
+    background-image: url("../Images/gb1.jpg");
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    font-size:90px;
+    letter-spacing: 10px;
+    padding:350px 430px;
+}
+
+.subGB
+{
+    font-size:40px;
+    letter-spacing: 0px;
+    font-family: 'Oswald', sans-serif;
+    padding-left:22px;
+}
+
+.GBabout
+{
+    font-size:30px;
+    font-family: 'Nunito', sans-serif;
+    margin:0px 50px;
+}
+
+.VR
+{
+    background-repeat: no-repeat;
+    background-image: url("../Images/vr.jpg");
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    font-size:90px;
+    letter-spacing: 10px;
+    padding:350px 100px;
+}
+.subVR
+{
+    font-size:40px;
+    letter-spacing: 0px;
+    font-family: 'Oswald', sans-serif;
+    padding-left:390px;
+}
+.VRabout
+{
+    font-size:30px;
+    font-family: 'Nunito', sans-serif;
+    margin:0px 50px;
+}
